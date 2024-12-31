@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(https://img.itch.zone/aW1nLzY3MjIwNzguZ2lm/original/3kwXny.gif);
+    
+    background-repeat: no-repeat; 
+}
+
+div{
+    
+    height: 900px;
+    width: 600px;
+    background-color: rgb(45, 13, 13);
+}
+
+#container{
+
+    height: 700px;
+    width: 600px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+   
+  
+}
+
+h1{
+
+  color: rgb(182, 128, 56);
+    
+}
+
+
+
+
